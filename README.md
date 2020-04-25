@@ -9,9 +9,9 @@ All code can AC, but not all code is commented or readable
 
 # Achievements
 
-- CCC Junior 2019 60
-- CCC Senior 2020 30
-- 182 Points on DM::OJ
+- CCC Junior 2019 60 Points
+- CCC Senior 2020 30 Points
+- 213 Points on DM::OJ
 - 1055 Rating on DM::OJ
 - Learned Multiple Programming languages (C++, Python, Java)
 - Learned and implemented multiple algorithms
