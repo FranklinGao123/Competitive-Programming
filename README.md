@@ -5,6 +5,11 @@ All code written in Java
 
 All code can AC, but not all code is commented or readable
 
+DMOJ problems have the same name as their respective DMOJ URL
+
+For example:
+> dmoj.ca/problem/dmopc15c3p4
+
 [DM::OJ Account](https://dmoj.ca/user/Frankie123456789)
 
 # Achievements
