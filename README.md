@@ -16,7 +16,7 @@ For example:
 
 - CCC Junior 2019 60
 - CCC Senior 2020 30
-- 263 Points on DM::OJ
-- 1058 Rating on DM::OJ
+- 292 Points on DM::OJ
+- 1120 Rating on DM::OJ
 - Learned Multiple Programming languages (C++, Python, Java)
 - Learned and implemented multiple algorithms
