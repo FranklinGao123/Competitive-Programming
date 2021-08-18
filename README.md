@@ -1,7 +1,7 @@
 # Competitive-Programming
 Practice for the compeititive programming contests (mainly CCC problems)
 
-All code written in Java
+All code written in Java/C++/Python
 
 All code can AC, but not all code is commented or readable
 
